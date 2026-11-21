@@ -9,8 +9,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Studying **Electrical Engineering** at **FAST-NUCES, Islamabad** (Batch of 2023)
-- 🌐 Interested in **computer networking**: designing, configuring and troubleshooting networks
+- 🎓 Studying **Electrical Engineering** at **FAST-NUCES, Islamabad**- 🌐 Interested in **computer networking**: designing, configuring and troubleshooting networks
 - 🔧 Hands-on practice in **Cisco Packet Tracer**: switching, IP addressing, routing and network services
 - 🌱 Currently learning **subnetting, VLANs and routing protocols**
 - 🎯 Working towards the **Cisco CCNA** certification
