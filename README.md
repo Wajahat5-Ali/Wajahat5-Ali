@@ -34,11 +34,21 @@
 
 ---
 
+### 🔬 Featured Project
+
+<a href="https://github.com/Wajahat5-Ali/packet-tracer-labs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat5-Ali&repo=packet-tracer-labs&theme=tokyonight&hide_border=true" alt="packet-tracer-labs" />
+</a>
+
+**[packet-tracer-labs](https://github.com/Wajahat5-Ali/packet-tracer-labs)**: my hands-on Cisco Packet Tracer labs, each with its topology, addressing table, steps and lessons learned.
+
+---
+
 ### 🗺️ Networking Roadmap
 
 | Status | Topic |
 |:---:|---|
-| ✅ | First Cisco Packet Tracer lab: basic network topology |
+| ✅ | [Lab 00: Your First Ping](https://github.com/Wajahat5-Ali/packet-tracer-labs/tree/main/Lab-00-First-Ping) (switch, static IPs, ping) |
 | 🔄 | IP addressing & subnetting |
 | ⏳ | Switch configuration & VLANs |
 | ⏳ | Static & dynamic routing (RIP, OSPF) |
