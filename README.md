@@ -10,10 +10,11 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying **Electrical Engineering** at **FAST-NUCES, Islamabad** (Batch of 2023)
-- 🌐 Getting into **computer networking**, and I just finished my **first Cisco Packet Tracer lab**
-- 🌱 Currently learning **IP addressing & subnetting, switching, VLANs and routing**
-- 🎯 Goal: build my networking skills step by step and work towards **Cisco CCNA**
-- 🔭 Every lab I complete will be uploaded here with its `.pkt` file and notes
+- 🌐 Interested in **computer networking**: designing, configuring and troubleshooting networks
+- 🔧 Hands-on practice in **Cisco Packet Tracer**: switching, IP addressing, routing and network services
+- 🌱 Currently learning **subnetting, VLANs and routing protocols**
+- 🎯 Working towards the **Cisco CCNA** certification
+- 🔭 My lab work is documented in [packet-tracer-labs](https://github.com/Wajahat5-Ali/packet-tracer-labs)
 - 🤝 Open to collaborating with other students learning networking
 - 📫 Reach me at **i236160@isb.nu.edu.pk**
 - 📍 Islamabad, Pakistan
@@ -48,7 +49,7 @@
 
 | Status | Topic |
 |:---:|---|
-| ✅ | [Lab 00: Your First Ping](https://github.com/Wajahat5-Ali/packet-tracer-labs/tree/main/Lab-00-First-Ping) (switch, static IPs, ping) |
+| ✅ | Network basics: switches, cabling & static IP addressing |
 | 🔄 | IP addressing & subnetting |
 | ⏳ | Switch configuration & VLANs |
 | ⏳ | Static & dynamic routing (RIP, OSPF) |
